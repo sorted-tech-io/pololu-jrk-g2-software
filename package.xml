@@ -7,8 +7,8 @@
   <maintainer email="birdcolour@users.noreply.github.com">robin</maintainer>
   <license>TODO: License declaration</license>
 
-  <build_depend>libusbp</build_depend>
-  <exec_depend>libusbp</exec_depend>
+  <build_depend>libusbp-1</build_depend>
+  <exec_depend>libusbp-1</exec_depend>
 
   <export>
     <build_type>ament_cmake</build_type>
